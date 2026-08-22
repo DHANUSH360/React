@@ -3,7 +3,7 @@ function Navbar() {
         <nav className="navbar">
 
             <div className="logo">
-                Freezy
+                <img src='./assets/brands/logo.png' alt='FoodMart logo'></img>
             </div>
 
             <div className="nav-links">
